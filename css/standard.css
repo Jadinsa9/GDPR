@@ -8,6 +8,12 @@ body{
     padding: 30px;
 }
 
+nav a {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
 header, main {
     background-color: #f5f8bb;
     border-radius: 20px;
@@ -33,6 +39,7 @@ main{
     margin-top: 20px;
     line-height: 1.5em;
 }
+
 
 
 @media only screen and (max-width : 700px) {
